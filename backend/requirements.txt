@@ -1,0 +1,4 @@
+flask==2.0.1
+python-docx==0.8.11
+pdfminer.six==20211015
+python-pptx==0.6.19

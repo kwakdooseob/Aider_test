@@ -1,0 +1,29 @@
+.aider*
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/build/
+dist/
+
+# Python / backend
+venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Flask uploads and local runtime files
+backend/uploads/
+*.log
+
+# Environment / editor
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Accidental local placeholder files
+/git
+/npm
